@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
+<url>
+<loc>
+http://springok.github.io/index.html
+</loc>
+<lastmod>
+2020-08-08
+</lastmod>
+</url>
+<url>
+<loc>
+http://springok.github.io/tags/index.html
+</loc>
+<lastmod>
+2020-08-08
+</lastmod>
+</url>
+<url>
+<loc>
+http://springok.github.io/404.html
+</loc>
+<lastmod>
+2020-08-08
+</lastmod>
+</url>
+<url>
+<loc>
+http://springok.github.io/archives/index.html
+</loc>
+<lastmod>
+2020-08-08
+</lastmod>
+</url>
+</urlset>
